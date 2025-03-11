@@ -1,3 +1,8 @@
+# Learning LangChain Roadmap
+[x] Get Started - https://js.langchain.com/docs/tutorials/
+[ ] Orchestration - https://js.langchain.com/docs/tutorials/
+[ ] Conceptual Guides - https://js.langchain.com/docs/concepts/
+
 # Calling Tools with Mistral AI
 
 https://js.langchain.com/docs/concepts/tool_calling/
